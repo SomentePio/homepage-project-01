@@ -37,12 +37,11 @@
 
 <br>
 <br>
-<br>
 <h1> 🚀 Technologies</h1>
 <br>
 
 <p>Techs used to build this project:</p>
-<br>
+
 
 <div>
   <!-- HTML5 -->
@@ -62,12 +61,6 @@
 </br>
 </br>
 </br>
-
-
-
-
-</br>
-
 
 <!-- ## 🔖 Layout
 
