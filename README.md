@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#-projeto">Overwiew</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tech">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
   <!-- <a href="#memo-licença">Licença</a> -->
 </p>
@@ -31,7 +31,7 @@
 <h1>💻 Overwiew</h1>
 <br>
 <p>It's an exercise to practice HTML and some CSS attributes</p>
-<br>
+<!-- <br> -->
 
 [Here you can check the project online](https://somentepio.github.io/DevLinks/)
 
@@ -71,4 +71,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](#).
 
 ---
 
-Developed with ♥ by Pio
+<p font-size=12px; >Developed with ♥ by Pio </p>
