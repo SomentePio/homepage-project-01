@@ -33,7 +33,7 @@
 <p>It's an exercise to practice HTML and some CSS attributes</p>
 <!-- <br> -->
 
-[Here you can check the project online](https://somentepio.github.io/DevLinks/)
+[Here you can check the project online](https://somentepio.github.io/homepage-project-01)
 
 <br>
 <br>
