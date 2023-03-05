@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Overwiew</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>
   <!-- <a href="#memo-licença">Licença</a> -->
 </p>
-<br>
+
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -30,7 +30,7 @@
 </br>
 <h1>💻 Overwiew</h1>
 <br>
-<h2>It's an exercise to practice HTML and some CSS attributes</h2>
+<p>It's an exercise to practice HTML and some CSS attributes</p>
 <br>
 
 [Here you can check the project online](https://somentepio.github.io/DevLinks/)
@@ -41,7 +41,7 @@
 <h1> 🚀 Technologies</h1>
 <br>
 
-<h2>Techs used to build this project:</h2>
+<p>Techs used to build this project:</p>
 <br>
 
 <div>
